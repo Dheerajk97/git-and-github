@@ -1,0 +1,12 @@
+  clear
+  git status
+  git add demo.py
+  git status
+  git commit -m "added demo.py"
+  git status
+  clear
+  rm demo.py
+  git status
+  git restore demo.py
+  clear
+  git status
