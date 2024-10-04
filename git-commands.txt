@@ -13,4 +13,5 @@
 
   pushing file again on github repo
 
+adding a new line in file or pull it to local from github
   
