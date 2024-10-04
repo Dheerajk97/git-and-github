@@ -10,3 +10,7 @@
   git restore demo.py
   clear
   git status
+
+  pushing file again on github repo
+
+  
